@@ -1,0 +1,19 @@
+{
+  "name": "js_implementations",
+  "version": "1.0.0",
+  "description": "Javascript implementation of some design patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "Javascript",
+    "design",
+    "patterns"
+  ],
+  "author": "Tomas Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
